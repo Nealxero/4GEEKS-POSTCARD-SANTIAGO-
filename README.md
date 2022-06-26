@@ -13,7 +13,7 @@ a) Most 4Geeks students should open this project with Gitpod by simply clicking 
 	
 + If you do not have a Gitpod account yet, please register with your Github username at: https://www.gitpod.io/ 
 
-+ You can start your Github account at:  https://github.com/
++ You can start your Github account atop Y Lol:  https://github.com/
  
 b) Only if the method above is not possible, and you need to work locally in an IDE on your computer, you can clone the project by running the below command in the terminal of your IDE:
 
